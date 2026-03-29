@@ -361,6 +361,7 @@ Real-time event stream for the active order screen. All events share a typed env
 │                                             mem+disk cache│
 └───────────────────────────────────────────────────────────┘
 ```
+<img width="1340" height="2356" alt="image" src="https://github.com/user-attachments/assets/53efaf23-f8fc-4484-9866-2c29f6730efe" />
 
 ---
 
